@@ -1,3 +1,10 @@
-Este e o exemplo de um ficheiro de texto file3
-Foram adicionadas novas linhas de texto ao file3.txt
-O file3 tem um total de 3 linhas
+<h1>Listas de coisas</h1>
+
+
+<h2>Comidas</h2>
+
+<ul>
+  <li>Bolos</li>
+  <li>Tostas</li>
+  <li>Sandes</li>
+</ul>
